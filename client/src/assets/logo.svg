@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 80" width="260" height="80" role="img" aria-label="Filmora logo">
+  <!-- Background (transparent) -->
+  <rect width="100%" height="100%" fill="transparent"/>
+  <!-- Text Filmora -->
+  <text x="10" y="55" font-family="Poppins, Inter, Arial, sans-serif" font-weight="700" font-size="48">
+    <tspan fill="#ff3d71">F</tspan>
+    <tspan fill="#ffffff">ilmora</tspan>
+  </text>
+</svg>
